@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
 
   <!--Esta imagem está dentro da pasta img-->
-  <img align="right" alt="Gamer Extremo-pic" height="150" style="border-radius:50px;" src="img/meu-gif-5.jpg?width=800&height=600">
+  <img align="right" alt="Gamer Extremo-pic" height="150" style="border-radius:50px;" src="img/meu-gif-5.png?width=800&height=600">
 </div>
   
 ##
