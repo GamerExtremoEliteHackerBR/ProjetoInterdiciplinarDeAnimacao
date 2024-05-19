@@ -30,6 +30,7 @@
 ###
 
 
+
 <!--
 **GamerExtremoEliteHackerBR/GamerExtremoEliteHackerBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 -->
-
 <!--====States====-->
 <div align="center">
   <a href="https://github.com/GamerExtremoEliteHackerBR">
@@ -64,17 +64,17 @@ Here are some ideas to get you started:
   <img align="center" alt="Gamer Extremo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gamer Extremo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  <img align="center" alt="Gamer Extremo-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Gamer Extremo-Kotli" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Gamer Extremo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
   <!--Avatar-->
   <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
 
   <!--Esta imagem está dentro da pasta img-->
-  <img align="right" alt="Gamer Extremo-pic" height="150" style="border-radius:50px;" src="img/meu-gif-5.png?width=800&height=600">
-
+  <img align="right" alt="Gamer Extremo-pic" height="150" style="border-radius:50px;" src="img/meu-gif-5.jpg?width=800&height=600">
+</div>
   
- ##
+##
 <!--====Icone Redes Sociais====-->
   <div align="center">
   <a href="https://web.facebook.com/easykaos.cursedangel/" target="_blank">
@@ -168,4 +168,3 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 -->
-
