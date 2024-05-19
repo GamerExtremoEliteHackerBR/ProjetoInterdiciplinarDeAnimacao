@@ -121,14 +121,14 @@ Here are some ideas to get you started:
 
 <!--====Snake NOVO, 19-05-24====-->
 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/ProjetoInterdiciplinarDeAnimacao
 /output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/ProjetoInterdiciplinarDeAnimacao
 /output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/ProjetoInterdiciplinarDeAnimacao
 /output/github-contribution-grid-snake.svg">
-</picture>
+</picture>-->
 
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
