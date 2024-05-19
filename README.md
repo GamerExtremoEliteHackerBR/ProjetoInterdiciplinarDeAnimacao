@@ -74,14 +74,7 @@ Here are some ideas to get you started:
   <img align="right" alt="Gamer Extremo-pic" height="150" style="border-radius:50px;" src="img/meu-gif-5.png?width=800&height=600">
 
   
-  <!--<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
-
-  <!--Esta imagem está dentro da pasta img-->
-  <!--<img align="right" alt="Gamer Extremo-pic" height="150" style="border-radius:50px;" src="img/meu-gif-5.jpg?width=800&height=600">-->
-  
-</div>
-  
-##
+ ##
 <!--====Icone Redes Sociais====-->
   <div align="center">
   <a href="https://web.facebook.com/easykaos.cursedangel/" target="_blank">
@@ -113,14 +106,12 @@ Here are some ideas to get you started:
   <a href="https://discordapp.com/users/360553616676749322" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-9368B7?logo=discord&logoColor=white&style=for-the-badge"  target="_blank" height="34" alt="gmail logo">
   </a>
-  
+
   <a href="https://play.google.com/store/apps/dev?id=5037860889242526251" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"  target="_blank" height="34" alt="gmail logo">
   </a>
-
   
   
-
 </div>
 
 
@@ -134,6 +125,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/GamerExtremoEliteHackerBR/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/GamerExtremoEliteHackerBR/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 
