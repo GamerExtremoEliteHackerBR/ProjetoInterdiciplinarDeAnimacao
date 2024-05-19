@@ -142,7 +142,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GamerExtremoEliteHackerBR/GamerExtremoEliteHackerBR/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+_generated with [Gamer Extremo]([https://github.com/Platane/snk](https://github.com/GamerExtremoEliteHackerBR))_
 
 
 <!--snake original, arquivo snake.yml, estava assim quando criei-->
